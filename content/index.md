@@ -4,7 +4,7 @@ title: "THE HEX FILES: Declassified"
 This is a player primer for "The Hex Files", a campaign setting for the 5e ruleset.
 
 - [[Untitled]]
-- [[README]]
+- [[content/Readme|Readme]]
 
 
 This is a blank Quartz installation.

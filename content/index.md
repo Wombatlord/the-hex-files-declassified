@@ -3,7 +3,7 @@ title: "THE HEX FILES: Declassified"
 ---
 This is a player primer for "The Hex Files", a campaign setting for the 5e ruleset.
 
-- [[content/index|index]]
+- [[Untitled]]
 - [[README]]
 
 

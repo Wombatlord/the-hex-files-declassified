@@ -1,11 +1,13 @@
 ---
-title: "THE HEX FILES: Declassified"
+title: The HEX Files
+draft: false
+tags:
 ---
-This is a player primer for "The Hex Files", a campaign setting for the 5e ruleset.
+This is a player primer for **The HEX Files**, a campaign setting for the 5e ruleset.
 
-- [[Untitled]]
-- [[Readme|Readme]]
+Setting Information:
+- [[Primer]]
+- [[Setting]]
 
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Information for creating a character:
+- [[Character Creation]]

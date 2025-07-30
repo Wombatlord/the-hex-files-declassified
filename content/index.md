@@ -11,3 +11,11 @@ Setting Information:
 
 Information for creating a character:
 - [[Character Creation]]
+- [[Backgrounds]]
+	1. [[Backgrounds#The Skeptic|The Skeptic]]
+	2. [[Backgrounds#The Believer|The Believer]]
+	3. [[Backgrounds#The Analyst|The Analyst]]
+	4. [[Backgrounds#The Activist|The Activist]]
+	5. [[Backgrounds#The Medium|The Medium]]
+	6. [[Backgrounds#The Insider|The Insider]]
+

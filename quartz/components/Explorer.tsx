@@ -23,6 +23,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
+  title: "Explorer",
   folderDefaultState: "collapsed",
   folderClickBehavior: "link",
   useSavedState: true,
@@ -30,7 +31,7 @@ const defaultOptions: Options = {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
+    // Sort order: files first, then folders. Sort folders and files alphabetically
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
       // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A

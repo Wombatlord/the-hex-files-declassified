@@ -2,6 +2,7 @@
 title: Character Creation
 draft: false
 tags:
+  - rules
 ---
 This is some info about the allowed choices for Player Characters, and which 5e book they appear in.
 
@@ -103,6 +104,10 @@ Make sure not to fill any values which might update later, such as attributes, A
 ---
 ## Background:
 
+There are some custom backgrounds for the setting [[Backgrounds|here]].
+
+If you want to use backgrounds from the standard books see below.
+
 >[!note]- Choices:
 >You can either choose any background from the Player's Handbook (2014), or create a custom background.
 >
@@ -117,8 +122,11 @@ Make sure not to fill any values which might update later, such as attributes, A
 >	- 1 Bond.
 >	- 1 Flaw.
 >- Feel free to create your own if you don't see anything that resonates.
+>  
 
 ---
 ## Equipment:
+
+Starting equipment is provided by your class and background.
 
 ---

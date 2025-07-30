@@ -8,7 +8,7 @@ This is a campaign primer for the world of **The HEX Files**, outlining introduc
 ---
 ## Overview
 
-**The HEX Files** is a fusion of D&D characters and magic with the fun side of 90's alien and occult conspiracy. Think of the worlds of *The X Files*, *Buffy*, *The Invisibles*, *Stargate*, or even *Men In Black*, but where the conspiracy to conceal **THE TRUTH** includes extraplanar entities interacting with the world, and the existence of 9th level spells, commonly referred to as **U.M.P** - **Unexplained Magical Phenomena**.
+**The HEX Files** is a fusion of D&D characters and magic with the fun side of 90's alien and occult conspiracy. Think of the worlds of *The X-Files*, *Buffy*, *The Invisibles*, *Stargate*, or even *Men In Black*, but where the conspiracy to conceal **THE TRUTH** includes extraplanar entities interacting with the world, and the existence of 9th level spells. All commonly referred to as **U.M.P** - **Unexplained Magical Phenomena**.
 
 What if Mulder and Scully were a Dwarf and an Elf investigating Kuo-Toa in the bayou? What if Agent's J & K were two halflings preventing an incursion from an extra-planar threat?
 
@@ -36,6 +36,8 @@ Here are some example archetypes that might help you think about the identity of
 
 They aren't directly mechanical, but might aid you in choosing and customising a background. Otherwise they're just a way to engage with the flavour of the setting, the class ideas are just examples.
 
+If you would like to take one of these archetypes as an actual character background, you can find them [[Backgrounds|here]].
+
 >[!info]- Archetypes
 >|Role|Class Ideas|Description|
 >|-|-|-
@@ -51,10 +53,12 @@ They aren't directly mechanical, but might aid you in choosing and customising a
 
 The following are loose inspirational touchstones for this setting and may help in thinking about the world and your characters.
 
-- X-Files
+- The X-Files
 - The Invisibles
 - Men In Black
 - Stargate
 - Buffy
 - Lovecraft
-- SCP
+- [[https://scp-wiki.wikidot.com/|SCP]]
+- [[https://www.goodreads.com/series/281494-tinfoil-dossier|Tinfoil Dossier]]
+- [[https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division|There Is No Anti-Memetics Division]]

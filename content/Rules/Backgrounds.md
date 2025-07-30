@@ -23,7 +23,7 @@ This is a set of custom backgrounds for character creation.
 **Equipment:**
 - A belt pouch containing 15 gp
 
->[!tip]- **Feature:** Assertive Logistician
+>[!tip]+ **Feature:** Assertive Logistician
 > Just because something seems unexplainable doesn't mean its a threat from the Outer Planes, sometimes it's just arson. 
 > 
 > While you are aware that there is more than meets the eye going on behind the scenes, simple belief isn't enough for you without being backed by proof. You prefer to examine rational explanations before entertaining stranger ideas. 
@@ -48,7 +48,7 @@ This is a set of custom backgrounds for character creation.
 **Equipment:**
 - A belt pouch containing 15 gp
 
->[!tip]- **Feature:** Unshakeable Conviction
+>[!tip]+ **Feature:** Unshakeable Conviction
 > Just because the official report says arson, doesn't mean the fire wasn't started by an entity from the elemental planes. Clearly it's a coverup.
 > 
 > Occult bookstores, specialty antique stores, and conspiracy forums are familiar ground to you. You have an easy time finding people or places trading in interesting objects and secret knowledge. 
@@ -71,7 +71,7 @@ This is a set of custom backgrounds for character creation.
 **Equipment:**
 - A belt pouch containing 15 gp
 
->[!tip]- **Feature:** Magetech Expertise
+>[!tip]+ **Feature:** Magetech Expertise
 >
 >There's always a paper trail, and you're determined to follow it. You are more familiar than most with magetech, particularly the arcane networks and systems intended to keep information hidden.
 >
@@ -96,7 +96,7 @@ This is a set of custom backgrounds for character creation.
 **Equipment:**
 - A belt pouch containing 15 gp
 
->[!tip]- **Feature:** Vox Populi
+>[!tip]+ **Feature:** Vox Populi
 >The Truth belongs to the people, and you've always been a loud voice making the demand. Should the truth require a little liberation, you're the first one there with a prybar.
 >
 >Never shy of attention, it's always possible you're being watched by the shadows behind the scenes, but should you need to lie low, you can usually find a fellow truth-seeker or friend of a friend to offer shelter.
@@ -119,7 +119,7 @@ This is a set of custom backgrounds for character creation.
 **Equipment:**
 - A belt pouch containing 15 gp
 
->[!tip]- **Feature:** Spirit Bridge
+>[!tip]+ **Feature:** Spirit Bridge
 >There are consciousnesses out there besides our own. Whether they are the spirits of the dead, or entities from elsewhere, they speak often speak, and you know how to listen.
 >
 >You know how to hold seances to entreat with the voices of mysterious spirits. They can attempt to answer questions, or provide you with whispered rumours and cryptic clues about mystical events.
@@ -143,7 +143,7 @@ This is a set of custom backgrounds for character creation.
 **Equipment:**
 - A belt pouch containing 15 gp
 
->[!tip]- **Feature:** \[REDACTED]
+>[!tip]+ **Feature:** \[REDACTED]
 >You know conspiracies are real because you've been part of them. A former member of \[REDACTED], you walked away for reasons known only to yourself. In any case, *you know too much*.
 >
 >Fortunately you still have some contacts willing to cover for you, and you're adept at keeping you and your associates off the radar. If you need to get something somewhere discreetly, you're likely to know someone who can help.

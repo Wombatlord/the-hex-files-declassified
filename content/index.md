@@ -8,9 +8,10 @@ This is a player primer for **The HEX Files**, a campaign setting for the 5e rul
 Setting Information:
 - [[Primer]]
 - [[Setting]]
+- [[Glossary]]
 
 Information for creating a character:
-- [[Character Creation]]
+- [[Character creation]]
 - [[Backgrounds]]
 	1. [[Backgrounds#The Skeptic|The Skeptic]]
 	2. [[Backgrounds#The Believer|The Believer]]

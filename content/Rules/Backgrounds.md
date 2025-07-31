@@ -71,11 +71,11 @@ This is a set of custom backgrounds for character creation.
 **Equipment:**
 - A belt pouch containing 15 gp
 
->[!tip]+ **Feature:** Magetech Expertise
+>[!tip]+ **Feature:** Arcanotech Expertise
 >
->There's always a paper trail, and you're determined to follow it. You are more familiar than most with magetech, particularly the arcane networks and systems intended to keep information hidden.
+>There's always a paper trail, and you're determined to follow it. You are more familiar than most with arcanotech, particularly the arcane networks and systems intended to keep information hidden.
 >
->You always know where to look and someone to ask for information through ARCANET. You have an easier time retrieving secure information from magetech systems.
+>You always know where to look and someone to ask for information through ARCANET. You have an easier time retrieving secure information from arcanotech systems.
 
 ---
 # The Activist
@@ -120,9 +120,9 @@ This is a set of custom backgrounds for character creation.
 - A belt pouch containing 15 gp
 
 >[!tip]+ **Feature:** Spirit Bridge
->There are consciousnesses out there besides our own. Whether they are the spirits of the dead, or entities from elsewhere, they speak often speak, and you know how to listen.
+>There are consciousnesses out there besides our own. Whether they are the spirits of the dead, or entities from elsewhere, they speak often. You know how to listen.
 >
->You know how to hold seances to entreat with the voices of mysterious spirits. They can attempt to answer questions, or provide you with whispered rumours and cryptic clues about mystical events.
+>You are capable of holding seances to entreat with the voices of mysterious spirits. They can attempt to answer questions, or provide you with whispered rumours and cryptic clues about mystical events.
 
 ---
 # The Insider

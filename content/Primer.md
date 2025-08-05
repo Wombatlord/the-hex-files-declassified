@@ -23,7 +23,7 @@ You can see some lore about the setting [[Setting|here]].
 ---
 ## Player Characters
 
->[[Character creation]]
+>[[Character-creation]]
 
 As recently Awakened individuals, you have developed access to new power or greater skill unattainable to the ignorant, and become certain that **THE TRUTH** is out there.
 

@@ -11,7 +11,7 @@ Setting Information:
 - [[Glossary]]
 
 Information for creating a character:
-- [[Character-creation]]
+- [[Character-creation|Character Creation]]
 - [[Backgrounds]]
 	1. [[Backgrounds#The Skeptic|The Skeptic]]
 	2. [[Backgrounds#The Believer|The Believer]]
